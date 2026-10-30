@@ -1,0 +1,97 @@
+[
+    {
+        "segment_id": 1,
+        "text": "Microsoft Corp.",
+        "entities": {
+            "TICKERS": [],
+            "COMPANIES": [
+                "Microsoft"
+            ],
+            "EXECUTIVES": [],
+            "METRICS": []
+        },
+        "sentiment": "neutral"
+    },
+    {
+        "segment_id": 2,
+        "text": "(MSFT) announced its Q3 earnings call today.",
+        "entities": {
+            "TICKERS": [
+                "MSFT"
+            ],
+            "COMPANIES": [],
+            "EXECUTIVES": [],
+            "METRICS": []
+        },
+        "sentiment": "neutral"
+    },
+    {
+        "segment_id": 3,
+        "text": "CEO Satya Nadella started the call by highlighting \n    strong demand for Azure cloud services, stating that cloud margins grew by 18 percent this quarter.",
+        "entities": {
+            "TICKERS": [],
+            "COMPANIES": [],
+            "EXECUTIVES": [
+                "CEO",
+                "Satya Nadella"
+            ],
+            "METRICS": []
+        },
+        "sentiment": "positive"
+    },
+    {
+        "segment_id": 4,
+        "text": "Our AI infrastructure investments are paying off, and Azure revenue exceeded $25.3 billion.",
+        "entities": {
+            "TICKERS": [
+                "AI"
+            ],
+            "COMPANIES": [],
+            "EXECUTIVES": [],
+            "METRICS": [
+                "$25.3 billion"
+            ]
+        },
+        "sentiment": "positive"
+    },
+    {
+        "segment_id": 5,
+        "text": "However, CFO Amy Hood warned that supply chain constraints could negatively impact hardware shipments.",
+        "entities": {
+            "TICKERS": [],
+            "COMPANIES": [],
+            "EXECUTIVES": [
+                "CFO"
+            ],
+            "METRICS": []
+        },
+        "sentiment": "negative"
+    },
+    {
+        "segment_id": 7,
+        "text": "Overall, Microsoft expects to beat guidance for the next fiscal year.",
+        "entities": {
+            "TICKERS": [],
+            "COMPANIES": [
+                "Microsoft"
+            ],
+            "EXECUTIVES": [],
+            "METRICS": []
+        },
+        "sentiment": "positive"
+    },
+    {
+        "segment_id": 8,
+        "text": "Meanwhile, competitors like Apple and Google are also expanding their cloud footprints.",
+        "entities": {
+            "TICKERS": [],
+            "COMPANIES": [
+                "Google",
+                "Apple"
+            ],
+            "EXECUTIVES": [],
+            "METRICS": []
+        },
+        "sentiment": "neutral"
+    }
+]

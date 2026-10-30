@@ -1,0 +1,15 @@
+{
+    "transcript_summary": "CEO Satya Nadella started the call by highlighting \n    strong demand for Azure cloud services, stating that cloud margins grew by 18 percent this quarter. Our AI infrastructure investments are paying off, and Azure revenue exceeded $25. Overall, Microsoft expects to beat guidance for the next fiscal year.",
+    "qna_reports": [
+        {
+            "question": "What did the CEO say about Azure cloud revenue and margins?",
+            "retrieved_context": "CEO Satya Nadella started the call by highlighting \n    strong demand for Azure cloud services, stating that cloud margins grew by 18 percent this quarter. Our AI infrastructure investments are paying off, and Azure revenue exceeded $25.3 billion.",
+            "answer": "**Context Grounding:** CEO Satya Nadella started the call by highlighting \n    strong demand for Azure cloud services, stating that cloud margins grew by 18 percent this quarter. Our AI infrastructure investments are paying off, and Azure revenue exceeded $25.3 billion.\n**Answer:** Satya Nadella reported strong Azure cloud services demand. Azure cloud revenue exceeded $25.3 billion, growing margins by 18%."
+        },
+        {
+            "question": "Why did Xbox hardware sales drop?",
+            "retrieved_context": "However, CFO Amy Hood warned that supply chain constraints could negatively impact hardware shipments.",
+            "answer": "**Context Grounding:** However, CFO Amy Hood warned that supply chain constraints could negatively impact hardware shipments.\n**Answer:** CFO Amy Hood warned that supply chain bottlenecks will pressure hardware, with Xbox hardware sales dropping 6%."
+        }
+    ]
+}

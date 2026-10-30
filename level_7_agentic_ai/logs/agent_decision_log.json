@@ -1,0 +1,50 @@
+{
+    "run_timestamp": "2026-10-30T22:39:22.021562",
+    "policy_risk_threshold": 0.7,
+    "decision_records": [
+        {
+            "news_id": 101,
+            "ticker": "TSLA",
+            "headline": "Tesla stock spikes 8% as CEO Elon Musk confirms release of new Autopilot version.",
+            "sentiment": "neutral",
+            "confidence": 0.8024212840664847,
+            "recommendation": "HOLD",
+            "risk_score": 0.16794190854348798,
+            "requires_human_approval": false,
+            "status": "EXECUTED_AUTONOMOUSLY"
+        },
+        {
+            "news_id": 102,
+            "ticker": "AMZN",
+            "headline": "Amazon faces legal challenges in Europe regarding cloud data privacy compliance.",
+            "sentiment": "neutral",
+            "confidence": 0.7554460302114158,
+            "recommendation": "HOLD",
+            "risk_score": 0.0978215879154337,
+            "requires_human_approval": false,
+            "status": "EXECUTED_AUTONOMOUSLY"
+        },
+        {
+            "news_id": 103,
+            "ticker": "MSFT",
+            "headline": "Microsoft holds normal operations meeting to vote on new company committees.",
+            "sentiment": "neutral",
+            "confidence": 0.9152311164628706,
+            "recommendation": "HOLD",
+            "risk_score": 0.012715332530569412,
+            "requires_human_approval": false,
+            "status": "EXECUTED_AUTONOMOUSLY"
+        },
+        {
+            "news_id": 104,
+            "ticker": "AAPL",
+            "headline": "Apple margins contract sharply due to rising chip costs, stock drops in premarket.",
+            "sentiment": "negative",
+            "confidence": 0.9847200183181661,
+            "recommendation": "SELL",
+            "risk_score": 0.013751983513650479,
+            "requires_human_approval": true,
+            "status": "EXECUTED_WITH_HUMAN_APPROVAL"
+        }
+    ]
+}
