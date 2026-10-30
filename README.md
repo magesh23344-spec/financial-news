@@ -69,8 +69,8 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/financial-sentiment-analysis.git
-cd financial-sentiment-analysis
+git clone https://github.com/magesh23344-spec/financial-news.git
+cd financial-news
 
 # Create and activate virtual environment
 python3 -m venv venv
